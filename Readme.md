@@ -21,3 +21,4 @@ cd C:\Users\YourName\Documents
 
 # Run the organizer
 powershell -ExecutionPolicy Bypass -File .\OrganizeFiles.ps1
+
